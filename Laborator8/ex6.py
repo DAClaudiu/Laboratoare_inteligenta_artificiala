@@ -2,7 +2,7 @@ from sklearn.datasets import load_wine
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 import pandas as pd
-
+a
 wine = load_wine(as_frame=True)
 
 df = wine.frame
